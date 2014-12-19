@@ -1,0 +1,14 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+
+.container{
+  padding: 10px;
+}
+
+.container img {
+  width: 129px;
+  height: 129px;
+  background: black;
+}
